@@ -39,7 +39,6 @@ class hello2 {
             a.sayHello();
         }
 
-
         Hello[] hellos = new Hello[3];
         String[] names = {"Kim", "Kang", "Lee"};
         for (int i = 0; i < 3; i++) {
