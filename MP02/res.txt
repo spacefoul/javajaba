@@ -1,0 +1,63 @@
+kia move, resume gas: 5
+
+ferrari move, resume gas: 15
+
+bmw move, resume gas: 10
+
+toyota move, resume gas: 12
+
+kia move, resume gas: 0
+
+ferrari move, resume gas: 10
+
+bmw move, resume gas: 5
+
+toyota move, resume gas: 7
+
+kia out of gas, resume gas: 0
+fuel amount: 10, resume fuel: 10
+
+ferrari move, resume gas: 5
+
+bmw move, resume gas: 0
+
+toyota move, resume gas: 2
+
+kia move, resume gas: 5
+
+ferrari move, resume gas: 0
+
+bmw out of gas, resume gas: 0
+fuel amount: 10, resume fuel: 10
+
+toyota out of gas, resume gas: 2
+fuel amount: 10, resume fuel: 12
+
+kia move, resume gas: 0
+
+ferrari out of gas, resume gas: 0
+fuel amount: 10, resume fuel: 10
+
+bmw move, resume gas: 5
+
+toyota move, resume gas: 7
+
+kia out of gas, resume gas: 0
+fuel amount: 10, resume fuel: 10
+
+ferrari move, resume gas: 5
+
+bmw move, resume gas: 0
+
+toyota move, resume gas: 2
+
+kia move, resume gas: 5
+
+ferrari move, resume gas: 0
+
+bmw out of gas, resume gas: 0
+fuel amount: 10, resume fuel: 10
+
+toyota out of gas, resume gas: 2
+fuel amount: 10, resume fuel: 12
+
